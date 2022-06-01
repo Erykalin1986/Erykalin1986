@@ -1,4 +1,4 @@
-# Привет! Меня зовут Илья. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Привет! Меня зовут Илья. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="width: '30px'">
 **Я хочу поделиться своими проектами, которые я когда-то выполнял по урокам и самостоятельно.**
 
 ### Технологии, которые я использую:
