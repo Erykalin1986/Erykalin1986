@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="git" height="42">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="42">
   <img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" height="42">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png](https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true" alt="postgresql" height="42">
+  <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png" alt="postgresql" height="42">
 </p>
 
 <div>
