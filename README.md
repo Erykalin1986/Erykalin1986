@@ -19,12 +19,3 @@
   <img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" height="42">
   <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png" alt="postgresql" height="42">
 </p>
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=Erykalin1986&hide=contribs&show_icons=true">
-    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Erykalin1986&hide=contribs&show_icons=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Erykalin1986&layout=compact">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erykalin1986&layout=compact" />
-  </a>
-</div>
